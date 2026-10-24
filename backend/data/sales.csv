@@ -1,0 +1,501 @@
+order_id,order_date,product,category,region,quantity,unit_price
+1,2026-01-13,Notebook,Stationery,East,1,120
+2,2026-03-13,Phone,Electronics,North,2,30000
+3,2026-02-14,Notebook,Stationery,West,5,120
+4,2026-02-17,Laptop,Electronics,South,1,55000
+5,2026-01-14,Phone,Electronics,South,5,30000
+6,2026-08-03,Notebook,Stationery,South,5,120
+7,2026-05-23,Desk,Furniture,North,5,8000
+8,2026-08-05,Pen Pack,Stationery,East,2,80
+9,2026-04-21,Headphones,Electronics,East,2,2500
+10,2026-07-14,Laptop,Electronics,North,1,55000
+11,2026-05-16,Headphones,Electronics,North,3,2500
+12,2026-03-05,Notebook,Stationery,West,4,120
+13,2026-05-31,Laptop,Electronics,East,5,55000
+14,2026-02-05,Chair,Furniture,North,2,5000
+15,2026-05-29,Notebook,Stationery,North,2,120
+16,2026-02-21,Pen Pack,Stationery,West,2,80
+17,2026-07-06,Headphones,Electronics,South,4,2500
+18,2026-04-18,Headphones,Electronics,East,3,2500
+19,2026-03-29,Notebook,Stationery,South,1,120
+20,2026-07-14,Phone,Electronics,East,4,30000
+21,2026-04-23,Notebook,Stationery,East,5,120
+22,2026-04-28,Pen Pack,Stationery,North,1,80
+23,2026-07-25,Pen Pack,Stationery,East,3,80
+24,2026-06-11,Laptop,Electronics,South,2,55000
+25,2026-07-22,Notebook,Stationery,West,4,120
+26,2026-03-13,Phone,Electronics,South,3,30000
+27,2026-05-15,Notebook,Stationery,West,5,120
+28,2026-07-05,Chair,Furniture,South,4,5000
+29,2026-09-10,Phone,Electronics,North,5,30000
+30,2026-02-26,Pen Pack,Stationery,South,1,80
+31,2026-08-05,Notebook,Stationery,North,2,120
+32,2026-08-28,Desk,Furniture,East,4,8000
+33,2026-02-28,Chair,Furniture,East,1,5000
+34,2026-02-27,Pen Pack,Stationery,East,3,80
+35,2026-08-21,Desk,Furniture,North,2,8000
+36,2026-09-14,Notebook,Stationery,South,3,120
+37,2026-06-02,Chair,Furniture,South,1,5000
+38,2026-03-24,Phone,Electronics,North,3,30000
+39,2026-09-08,Chair,Furniture,North,3,5000
+40,2026-06-07,Laptop,Electronics,South,3,55000
+41,2026-02-10,Laptop,Electronics,North,2,55000
+42,2026-02-05,Notebook,Stationery,South,4,120
+43,2026-03-26,Phone,Electronics,East,4,30000
+44,2026-08-05,Chair,Furniture,South,5,5000
+45,2026-06-09,Chair,Furniture,West,2,5000
+46,2026-08-13,Notebook,Stationery,West,3,120
+47,2026-04-26,Laptop,Electronics,North,2,55000
+48,2026-04-28,Headphones,Electronics,South,1,2500
+49,2026-01-31,Laptop,Electronics,South,1,55000
+50,2026-06-19,Laptop,Electronics,North,1,55000
+51,2026-05-23,Chair,Furniture,West,2,5000
+52,2026-03-09,Phone,Electronics,West,5,30000
+53,2026-07-28,Phone,Electronics,South,4,30000
+54,2026-08-09,Laptop,Electronics,East,1,55000
+55,2026-08-28,Desk,Furniture,North,4,8000
+56,2026-02-01,Notebook,Stationery,West,1,120
+57,2026-02-25,Notebook,Stationery,South,3,120
+58,2026-08-18,Phone,Electronics,South,2,30000
+59,2026-05-23,Desk,Furniture,West,2,8000
+60,2026-08-15,Phone,Electronics,North,1,30000
+61,2026-01-08,Laptop,Electronics,North,5,55000
+62,2026-03-27,Pen Pack,Stationery,West,2,80
+63,2026-04-20,Desk,Furniture,West,4,8000
+64,2026-07-14,Laptop,Electronics,North,2,55000
+65,2026-08-21,Desk,Furniture,East,3,8000
+66,2026-09-07,Desk,Furniture,South,5,8000
+67,2026-04-22,Phone,Electronics,North,3,30000
+68,2026-02-01,Chair,Furniture,East,5,5000
+69,2026-09-02,Laptop,Electronics,South,1,55000
+70,2026-02-11,Laptop,Electronics,South,5,55000
+71,2026-02-04,Laptop,Electronics,South,5,55000
+72,2026-05-07,Desk,Furniture,North,1,8000
+73,2026-08-03,Chair,Furniture,East,1,5000
+74,2026-06-10,Headphones,Electronics,South,2,2500
+75,2026-03-09,Headphones,Electronics,East,4,2500
+76,2026-02-07,Desk,Furniture,North,3,8000
+77,2026-02-21,Desk,Furniture,North,5,8000
+78,2026-09-17,Chair,Furniture,East,2,5000
+79,2026-02-05,Phone,Electronics,South,3,30000
+80,2026-03-22,Headphones,Electronics,West,3,2500
+81,2026-06-04,Pen Pack,Stationery,North,5,80
+82,2026-06-03,Notebook,Stationery,North,5,120
+83,2026-03-01,Phone,Electronics,North,3,30000
+84,2026-03-21,Notebook,Stationery,East,5,120
+85,2026-04-18,Headphones,Electronics,East,5,2500
+86,2026-09-16,Phone,Electronics,West,3,30000
+87,2026-02-17,Headphones,Electronics,West,1,2500
+88,2026-01-23,Pen Pack,Stationery,North,3,80
+89,2026-05-15,Headphones,Electronics,South,2,2500
+90,2026-08-07,Notebook,Stationery,North,4,120
+91,2026-03-18,Laptop,Electronics,North,1,55000
+92,2026-03-17,Pen Pack,Stationery,West,3,80
+93,2026-06-07,Phone,Electronics,East,1,30000
+94,2026-07-03,Pen Pack,Stationery,South,1,80
+95,2026-02-22,Notebook,Stationery,East,2,120
+96,2026-07-28,Pen Pack,Stationery,South,5,80
+97,2026-04-01,Phone,Electronics,West,2,30000
+98,2026-06-20,Laptop,Electronics,West,2,55000
+99,2026-05-17,Pen Pack,Stationery,South,2,80
+100,2026-07-15,Pen Pack,Stationery,North,1,80
+101,2026-04-24,Pen Pack,Stationery,South,4,80
+102,2026-06-29,Pen Pack,Stationery,East,4,80
+103,2026-04-25,Pen Pack,Stationery,North,2,80
+104,2026-07-24,Notebook,Stationery,East,2,120
+105,2026-05-23,Headphones,Electronics,East,1,2500
+106,2026-07-24,Notebook,Stationery,East,5,120
+107,2026-05-14,Laptop,Electronics,South,1,55000
+108,2026-01-20,Chair,Furniture,North,3,5000
+109,2026-06-26,Chair,Furniture,East,4,5000
+110,2026-09-19,Desk,Furniture,North,5,8000
+111,2026-04-08,Desk,Furniture,East,5,8000
+112,2026-01-01,Laptop,Electronics,South,4,55000
+113,2026-02-05,Headphones,Electronics,East,4,2500
+114,2026-03-05,Chair,Furniture,East,3,5000
+115,2026-07-29,Chair,Furniture,East,3,5000
+116,2026-03-07,Desk,Furniture,South,3,8000
+117,2026-03-31,Desk,Furniture,East,4,8000
+118,2026-01-01,Desk,Furniture,East,5,8000
+119,2026-08-09,Headphones,Electronics,East,2,2500
+120,2026-08-15,Desk,Furniture,South,4,8000
+121,2026-03-28,Chair,Furniture,North,4,5000
+122,2026-06-21,Headphones,Electronics,North,5,2500
+123,2026-04-26,Pen Pack,Stationery,South,99,80
+124,2026-01-24,Phone,Electronics,South,1,30000
+125,2026-02-07,Desk,Furniture,West,5,8000
+126,2026-04-10,Desk,Furniture,West,5,8000
+127,2026-05-05,Desk,Furniture,South,4,8000
+128,2026-02-24,Notebook,Stationery,West,1,120
+129,2026-09-23,Phone,Electronics,West,2,30000
+130,2026-05-08,Laptop,Electronics,North,5,55000
+131,2026-08-26,Desk,Furniture,East,2,8000
+132,2026-09-16,Pen Pack,Stationery,West,4,80
+133,2026-08-17,Pen Pack,Stationery,South,5,80
+134,2026-08-19,Notebook,Stationery,East,4,120
+135,2026-05-22,Pen Pack,Stationery,West,2,80
+136,2026-05-21,Notebook,Stationery,West,2,120
+137,2026-05-01,Laptop,Electronics,East,3,55000
+138,2026-02-11,Headphones,Electronics,South,3,2500
+139,2026-07-16,Phone,Electronics,South,2,30000
+140,2026-02-02,Notebook,Stationery,West,2,120
+141,2026-08-27,Desk,Furniture,West,3,8000
+142,2026-08-04,Laptop,Electronics,West,2,55000
+143,2026-01-11,Pen Pack,Stationery,West,5,80
+144,2026-06-30,Desk,Furniture,East,1,8000
+145,2026-08-03,Pen Pack,Stationery,South,4,80
+146,2026-05-20,Desk,Furniture,West,2,8000
+147,2026-07-19,Desk,Furniture,East,1,8000
+148,2026-03-26,Notebook,Stationery,West,4,120
+149,2026-01-14,Phone,Electronics,West,5,30000
+150,2026-01-14,Chair,Furniture,North,5,5000
+151,2026-03-11,Notebook,Stationery,West,4,120
+152,2026-05-14,Phone,Electronics,West,1,30000
+153,2026-08-21,Headphones,Electronics,East,2,2500
+154,2026-05-23,Headphones,Electronics,West,4,2500
+155,2026-08-29,Headphones,Electronics,North,1,2500
+156,2026-01-27,Notebook,Stationery,East,5,120
+157,2026-01-21,Phone,Electronics,North,1,30000
+158,2026-01-11,Phone,Electronics,South,2,30000
+159,2026-08-31,Phone,Electronics,North,2,30000
+160,2026-08-27,Chair,Furniture,East,2,5000
+161,2026-03-27,Pen Pack,Stationery,North,3,80
+162,2026-06-09,Pen Pack,Stationery,North,2,80
+163,2026-06-09,Chair,Furniture,West,1,5000
+164,2026-02-08,Desk,Furniture,South,2,8000
+165,2026-03-03,Laptop,Electronics,North,3,55000
+166,2026-08-08,Headphones,Electronics,East,5,2500
+167,2026-06-24,Laptop,Electronics,North,5,55000
+168,2026-09-08,Pen Pack,Stationery,North,4,80
+169,2026-08-24,Desk,Furniture,South,3,8000
+170,2026-09-25,Desk,Furniture,East,2,8000
+171,2026-09-05,Chair,Furniture,West,5,5000
+172,2026-05-18,Desk,Furniture,East,5,8000
+173,2026-02-14,Pen Pack,Stationery,East,2,80
+174,2026-08-26,Desk,Furniture,West,2,8000
+175,2026-09-11,Headphones,Electronics,East,1,2500
+176,2026-04-19,Phone,Electronics,East,4,30000
+177,2026-06-24,Pen Pack,Stationery,East,3,80
+178,2026-01-06,Chair,Furniture,South,3,5000
+179,2026-07-28,Laptop,Electronics,West,2,55000
+180,2026-09-01,Chair,Furniture,West,2,5000
+181,2026-02-17,Desk,Furniture,East,1,8000
+182,2026-05-05,Phone,Electronics,East,4,30000
+183,2026-07-08,Notebook,Stationery,West,5,120
+184,2026-06-26,Chair,Furniture,West,5,5000
+185,2026-06-19,Notebook,Stationery,East,5,120
+186,2026-05-19,Notebook,Stationery,East,4,120
+187,2026-03-03,Headphones,Electronics,South,2,2500
+188,2026-04-05,Headphones,Electronics,South,1,2500
+189,2026-05-22,Phone,Electronics,East,4,30000
+190,2026-06-01,Laptop,Electronics,South,2,55000
+191,2026-06-04,Headphones,Electronics,North,2,2500
+192,2026-03-06,Notebook,Stationery,East,5,120
+193,2026-05-30,Laptop,Electronics,South,1,55000
+194,2026-02-22,Notebook,Stationery,North,4,120
+195,2026-08-29,Chair,Furniture,West,3,5000
+196,2026-04-05,Desk,Furniture,North,3,8000
+197,2026-02-28,Headphones,Electronics,North,4,2500
+198,2026-02-07,Desk,Furniture,North,4,8000
+199,2026-06-05,Phone,Electronics,North,2,30000
+200,2026-08-02,Phone,Electronics,South,1,30000
+201,2026-07-14,Pen Pack,Stationery,West,5,80
+202,2026-08-08,Desk,Furniture,East,3,8000
+203,2026-01-31,Chair,Furniture,North,5,5000
+204,2026-04-19,Pen Pack,Stationery,East,2,80
+205,2026-03-22,Notebook,Stationery,South,1,120
+206,2026-02-08,Phone,Electronics,South,5,30000
+207,2026-08-19,Laptop,Electronics,West,4,55000
+208,2026-04-29,Headphones,Electronics,East,1,2500
+209,2026-08-21,Notebook,Stationery,North,3,120
+210,2026-05-16,Notebook,Stationery,South,2,120
+211,2026-04-26,Desk,Furniture,South,1,8000
+212,2026-02-06,Headphones,Electronics,North,2,2500
+213,2026-05-28,Phone,Electronics,West,3,30000
+214,2026-06-05,Laptop,Electronics,West,4,55000
+215,2026-09-10,Headphones,Electronics,West,5,2500
+216,2026-01-21,Laptop,Electronics,West,5,55000
+217,2026-05-09,Notebook,Stationery,North,3,120
+218,2026-01-11,Laptop,Electronics,East,2,55000
+219,2026-03-31,Chair,Furniture,West,1,5000
+220,2026-05-23,Chair,Furniture,South,4,5000
+221,2026-09-09,Chair,Furniture,North,4,5000
+222,2026-07-29,Desk,Furniture,East,3,8000
+223,2026-03-24,Headphones,Electronics,East,1,2500
+224,2026-05-28,Desk,Furniture,West,4,8000
+225,2026-01-19,Pen Pack,Stationery,West,5,80
+226,2026-05-10,Laptop,Electronics,East,3,55000
+227,2026-09-21,Laptop,Electronics,North,4,55000
+228,2026-08-25,Notebook,Stationery,West,5,120
+229,2026-09-23,Laptop,Electronics,East,2,55000
+230,2026-08-15,Chair,Furniture,North,4,5000
+231,2026-03-09,Phone,Electronics,East,3,30000
+232,2026-03-04,Desk,Furniture,North,4,8000
+233,2026-05-03,Notebook,Stationery,South,5,120
+234,2026-01-08,Headphones,Electronics,West,5,2500
+235,2026-02-28,Laptop,Electronics,West,2,55000
+236,2026-09-13,Laptop,Electronics,East,2,55000
+237,2026-08-01,Chair,Furniture,West,3,5000
+238,2026-08-22,Desk,Furniture,South,2,8000
+239,2026-09-18,Desk,Furniture,South,2,8000
+240,2026-05-22,Pen Pack,Stationery,West,1,80
+241,2026-05-17,Headphones,Electronics,North,5,2500
+242,2026-09-08,Headphones,Electronics,South,3,2500
+243,2026-09-05,Desk,Furniture,East,5,8000
+244,2026-07-13,Headphones,Electronics,West,5,2500
+245,2026-05-03,Headphones,Electronics,West,2,2500
+246,2026-01-23,Phone,Electronics,East,4,30000
+247,2026-07-15,Notebook,Stationery,West,4,120
+248,2026-09-11,Notebook,Stationery,North,2,120
+249,2026-06-19,Phone,Electronics,North,5,30000
+250,2026-02-21,Pen Pack,Stationery,West,4,80
+251,2026-07-29,Laptop,Electronics,South,2,55000
+252,2026-05-16,Laptop,Electronics,East,4,55000
+253,2026-02-11,Chair,Furniture,East,4,5000
+254,2026-07-14,Pen Pack,Stationery,East,5,80
+255,2026-01-19,Notebook,Stationery,North,4,120
+256,2026-04-27,Phone,Electronics,North,3,30000
+257,2026-02-21,Desk,Furniture,West,1,8000
+258,2026-01-15,Phone,Electronics,North,3,30000
+259,2026-05-31,Headphones,Electronics,East,1,2500
+260,2026-03-16,Headphones,Electronics,South,4,2500
+261,2026-04-03,Chair,Furniture,South,4,5000
+262,2026-07-15,Phone,Electronics,South,1,30000
+263,2026-03-15,Desk,Furniture,South,5,8000
+264,2026-08-24,Desk,Furniture,East,3,8000
+265,2026-08-27,Notebook,Stationery,East,1,120
+266,2026-03-22,Notebook,Stationery,North,5,120
+267,2026-06-03,Desk,Furniture,West,3,8000
+268,2026-08-22,Notebook,Stationery,East,3,120
+269,2026-09-05,Phone,Electronics,North,4,30000
+270,2026-07-03,Phone,Electronics,East,4,30000
+271,2026-01-12,Notebook,Stationery,West,3,120
+272,2026-01-26,Headphones,Electronics,West,1,2500
+273,2026-04-28,Pen Pack,Stationery,East,3,80
+274,2026-05-09,Phone,Electronics,South,2,30000
+275,2026-01-21,Notebook,Stationery,East,1,120
+276,2026-01-18,Pen Pack,Stationery,East,4,80
+277,2026-02-16,Notebook,Stationery,East,2,120
+278,2026-03-31,Headphones,Electronics,South,4,2500
+279,2026-07-07,Phone,Electronics,East,5,30000
+280,2026-05-12,Pen Pack,Stationery,West,2,80
+281,2026-06-23,Pen Pack,Stationery,North,3,80
+282,2026-03-14,Desk,Furniture,South,1,8000
+283,2026-07-07,Pen Pack,Stationery,North,4,80
+284,2026-01-08,Pen Pack,Stationery,East,4,80
+285,2026-08-21,Chair,Furniture,East,1,5000
+286,2026-07-15,Notebook,Stationery,East,3,120
+287,2026-01-13,Laptop,Electronics,East,110,55000
+288,2026-02-02,Chair,Furniture,West,2,5000
+289,2026-07-29,Notebook,Stationery,North,3,120
+290,2026-01-20,Phone,Electronics,East,1,30000
+291,2026-02-19,Desk,Furniture,South,1,8000
+292,2026-07-18,Chair,Furniture,West,2,5000
+293,2026-08-03,Headphones,Electronics,South,5,2500
+294,2026-09-08,Desk,Furniture,West,1,8000
+295,2026-07-09,Headphones,Electronics,South,1,2500
+296,2026-05-01,Desk,Furniture,East,4,8000
+297,2026-07-03,Laptop,Electronics,North,3,55000
+298,2026-04-08,Desk,Furniture,North,3,8000
+299,2026-02-16,Pen Pack,Stationery,South,4,80
+300,2026-01-11,Notebook,Stationery,North,5,120
+301,2026-05-05,Pen Pack,Stationery,South,3,80
+302,2026-04-16,Pen Pack,Stationery,North,5,80
+303,2026-04-17,Pen Pack,Stationery,South,5,80
+304,2026-06-18,Pen Pack,Stationery,South,2,80
+305,2026-01-02,Pen Pack,Stationery,East,5,80
+306,2026-03-08,Pen Pack,Stationery,East,2,80
+307,2026-02-26,Pen Pack,Stationery,North,2,80
+308,2026-07-03,Phone,Electronics,South,1,30000
+309,2026-01-09,Chair,Furniture,South,3,5000
+310,2026-03-06,Headphones,Electronics,West,1,2500
+311,2026-02-02,Chair,Furniture,West,1,5000
+312,2026-09-20,Desk,Furniture,North,3,8000
+313,2026-04-24,Desk,Furniture,North,5,8000
+314,2026-06-04,Notebook,Stationery,West,5,120
+315,2026-02-01,Notebook,Stationery,West,1,120
+316,2026-08-07,Pen Pack,Stationery,North,4,80
+317,2026-02-07,Desk,Furniture,North,4,8000
+318,2026-03-17,Headphones,Electronics,North,5,2500
+319,2026-06-16,Phone,Electronics,West,3,30000
+320,2026-05-31,Chair,Furniture,West,5,5000
+321,2026-08-09,Chair,Furniture,North,5,5000
+322,2026-04-21,Pen Pack,Stationery,West,1,80
+323,2026-07-31,Desk,Furniture,East,2,8000
+324,2026-07-24,Pen Pack,Stationery,West,4,80
+325,2026-06-10,Notebook,Stationery,West,1,120
+326,2026-07-11,Headphones,Electronics,South,3,2500
+327,2026-02-04,Notebook,Stationery,North,4,120
+328,2026-02-17,Pen Pack,Stationery,West,1,80
+329,2026-03-08,Laptop,Electronics,North,3,55000
+330,2026-06-18,Chair,Furniture,North,5,5000
+331,2026-08-05,Desk,Furniture,North,3,8000
+332,2026-06-09,Headphones,Electronics,East,5,2500
+333,2026-09-17,Laptop,Electronics,South,5,55000
+334,2026-04-25,Phone,Electronics,North,4,30000
+335,2026-07-08,Headphones,Electronics,North,5,2500
+336,2026-04-26,Pen Pack,Stationery,West,3,80
+337,2026-01-14,Pen Pack,Stationery,East,5,80
+338,2026-05-20,Laptop,Electronics,East,2,55000
+339,2026-01-04,Headphones,Electronics,South,3,2500
+340,2026-07-25,Pen Pack,Stationery,North,2,80
+341,2026-02-16,Phone,Electronics,South,1,30000
+342,2026-08-21,Desk,Furniture,East,4,8000
+343,2026-06-09,Phone,Electronics,East,3,30000
+344,2026-02-13,Pen Pack,Stationery,North,5,80
+345,2026-01-26,Phone,Electronics,North,2,30000
+346,2026-08-06,Headphones,Electronics,West,4,2500
+347,2026-08-01,Chair,Furniture,East,4,5000
+348,2026-02-28,Phone,Electronics,East,5,30000
+349,2026-05-26,Desk,Furniture,West,1,8000
+350,2026-01-24,Chair,Furniture,South,3,5000
+351,2026-01-29,Desk,Furniture,North,5,8000
+352,2026-04-19,Phone,Electronics,South,3,30000
+353,2026-05-29,Pen Pack,Stationery,East,3,80
+354,2026-09-12,Laptop,Electronics,West,1,55000
+355,2026-07-14,Phone,Electronics,South,2,30000
+356,2026-07-01,Chair,Furniture,North,5,5000
+357,2026-08-12,Desk,Furniture,North,1,8000
+358,2026-06-10,Desk,Furniture,West,1,8000
+359,2026-08-02,Chair,Furniture,East,4,5000
+360,2026-01-11,Laptop,Electronics,East,4,55000
+361,2026-08-24,Phone,Electronics,East,5,30000
+362,2026-02-24,Laptop,Electronics,South,4,55000
+363,2026-07-25,Desk,Furniture,North,5,8000
+364,2026-06-23,Desk,Furniture,South,3,8000
+365,2026-02-09,Headphones,Electronics,North,2,2500
+366,2026-04-10,Chair,Furniture,East,5,5000
+367,2026-05-01,Headphones,Electronics,North,2,2500
+368,2026-04-12,Phone,Electronics,South,3,30000
+369,2026-02-08,Chair,Furniture,South,2,5000
+370,2026-08-26,Pen Pack,Stationery,West,4,80
+371,2026-06-15,Notebook,Stationery,East,5,120
+372,2026-02-04,Phone,Electronics,West,4,30000
+373,2026-05-21,Desk,Furniture,North,3,8000
+374,2026-02-07,Headphones,Electronics,East,5,2500
+375,2026-01-20,Desk,Furniture,North,4,8000
+376,2026-02-09,Headphones,Electronics,North,3,2500
+377,2026-09-17,Chair,Furniture,West,5,5000
+378,2026-01-22,Desk,Furniture,West,5,8000
+379,2026-04-07,Pen Pack,Stationery,East,5,80
+380,2026-09-14,Chair,Furniture,South,4,5000
+381,2026-02-22,Laptop,Electronics,East,4,55000
+382,2026-09-16,Notebook,Stationery,South,1,120
+383,2026-08-13,Laptop,Electronics,West,2,55000
+384,2026-03-23,Chair,Furniture,East,5,5000
+385,2026-07-18,Headphones,Electronics,West,3,2500
+386,2026-01-27,Pen Pack,Stationery,East,3,80
+387,2026-02-18,Laptop,Electronics,West,3,55000
+388,2026-03-18,Headphones,Electronics,East,3,2500
+389,2026-03-14,Laptop,Electronics,East,5,55000
+390,2026-03-08,Headphones,Electronics,North,4,2500
+391,2026-07-12,Headphones,Electronics,East,5,2500
+392,2026-09-27,Pen Pack,Stationery,North,2,80
+393,2026-09-18,Notebook,Stationery,East,4,120
+394,2026-06-08,Laptop,Electronics,South,3,55000
+395,2026-09-06,Phone,Electronics,South,3,30000
+396,2026-03-21,Phone,Electronics,North,2,30000
+397,2026-09-17,Headphones,Electronics,North,1,2500
+398,2026-03-09,Notebook,Stationery,West,3,120
+399,2026-04-03,Phone,Electronics,South,2,30000
+400,2026-01-23,Notebook,Stationery,West,4,120
+401,2026-08-16,Headphones,Electronics,East,2,2500
+402,2026-04-30,Pen Pack,Stationery,South,4,80
+403,2026-04-10,Headphones,Electronics,East,4,2500
+404,2026-08-14,Notebook,Stationery,West,5,120
+405,2026-07-15,Pen Pack,Stationery,West,3,80
+406,2026-03-12,Phone,Electronics,East,2,30000
+407,2026-07-10,Laptop,Electronics,North,4,55000
+408,2026-03-05,Notebook,Stationery,East,5,120
+409,2026-05-20,Laptop,Electronics,West,2,55000
+410,2026-08-12,Chair,Furniture,North,2,5000
+411,2026-01-14,Phone,Electronics,West,102,30000
+412,2026-09-15,Laptop,Electronics,East,4,55000
+413,2026-02-11,Phone,Electronics,East,4,30000
+414,2026-06-13,Phone,Electronics,North,1,30000
+415,2026-03-16,Pen Pack,Stationery,South,3,80
+416,2026-08-30,Laptop,Electronics,South,3,55000
+417,2026-08-18,Pen Pack,Stationery,North,4,80
+418,2026-05-12,Laptop,Electronics,South,1,55000
+419,2026-09-28,Pen Pack,Stationery,West,2,80
+420,2026-05-02,Laptop,Electronics,East,3,55000
+421,2026-05-03,Laptop,Electronics,West,1,55000
+422,2026-08-23,Notebook,Stationery,North,5,120
+423,2026-01-09,Laptop,Electronics,South,4,55000
+424,2026-05-30,Notebook,Stationery,West,2,120
+425,2026-06-30,Laptop,Electronics,South,5,55000
+426,2026-04-06,Chair,Furniture,North,4,5000
+427,2026-02-04,Chair,Furniture,North,3,5000
+428,2026-01-23,Desk,Furniture,West,4,8000
+429,2026-01-09,Headphones,Electronics,East,3,2500
+430,2026-06-26,Pen Pack,Stationery,South,1,80
+431,2026-06-20,Notebook,Stationery,South,1,120
+432,2026-06-23,Laptop,Electronics,South,3,55000
+433,2026-09-03,Pen Pack,Stationery,South,4,80
+434,2026-02-02,Pen Pack,Stationery,West,2,80
+435,2026-04-14,Laptop,Electronics,North,3,55000
+436,2026-01-22,Pen Pack,Stationery,East,2,80
+437,2026-07-23,Headphones,Electronics,West,5,2500
+438,2026-04-08,Headphones,Electronics,East,1,2500
+439,2026-06-19,Headphones,Electronics,East,1,2500
+440,2026-08-12,Laptop,Electronics,West,3,55000
+441,2026-07-17,Notebook,Stationery,East,4,120
+442,2026-09-12,Phone,Electronics,East,4,30000
+443,2026-05-17,Pen Pack,Stationery,North,5,80
+444,2026-02-10,Notebook,Stationery,West,4,120
+445,2026-05-31,Chair,Furniture,East,2,5000
+446,2026-06-17,Laptop,Electronics,East,1,55000
+447,2026-08-07,Headphones,Electronics,South,4,2500
+448,2026-06-29,Notebook,Stationery,West,4,120
+449,2026-08-11,Laptop,Electronics,East,3,55000
+450,2026-02-08,Notebook,Stationery,West,1,120
+451,2026-03-23,Headphones,Electronics,North,5,2500
+452,2026-08-13,Phone,Electronics,North,5,30000
+453,2026-05-01,Phone,Electronics,East,1,30000
+454,2026-01-17,Headphones,Electronics,South,4,2500
+455,2026-07-09,Notebook,Stationery,East,4,120
+456,2026-03-12,Desk,Furniture,East,1,8000
+457,2026-05-23,Desk,Furniture,South,3,8000
+458,2026-04-06,Laptop,Electronics,West,1,55000
+459,2026-03-02,Chair,Furniture,East,4,5000
+460,2026-08-17,Pen Pack,Stationery,South,3,80
+461,2026-09-09,Chair,Furniture,South,3,5000
+462,2026-02-07,Laptop,Electronics,West,2,55000
+463,2026-02-14,Phone,Electronics,East,4,30000
+464,2026-02-03,Notebook,Stationery,East,3,120
+465,2026-03-31,Headphones,Electronics,East,2,2500
+466,2026-03-04,Chair,Furniture,South,2,5000
+467,2026-05-02,Pen Pack,Stationery,West,2,80
+468,2026-07-08,Laptop,Electronics,West,3,55000
+469,2026-03-08,Pen Pack,Stationery,North,5,80
+470,2026-07-23,Laptop,Electronics,West,3,55000
+471,2026-07-29,Chair,Furniture,North,4,5000
+472,2026-02-07,Phone,Electronics,West,3,30000
+473,2026-06-26,Desk,Furniture,South,5,8000
+474,2026-04-04,Pen Pack,Stationery,South,5,80
+475,2026-01-29,Desk,Furniture,North,5,8000
+476,2026-06-05,Chair,Furniture,South,2,5000
+477,2026-04-26,Phone,Electronics,East,3,30000
+478,2026-02-10,Chair,Furniture,East,3,5000
+479,2026-05-21,Phone,Electronics,South,5,30000
+480,2026-02-17,Notebook,Stationery,South,3,120
+481,2026-03-20,Chair,Furniture,South,5,5000
+482,2026-06-22,Notebook,Stationery,North,5,120
+483,2026-02-11,Pen Pack,Stationery,North,1,80
+484,2026-05-16,Notebook,Stationery,South,5,120
+485,2026-08-02,Pen Pack,Stationery,North,5,80
+486,2026-05-29,Desk,Furniture,East,5,8000
+487,2026-07-27,Desk,Furniture,East,2,8000
+488,2026-01-31,Desk,Furniture,South,1,8000
+489,2026-09-05,Desk,Furniture,West,4,8000
+490,2026-03-15,Phone,Electronics,East,3,30000
+491,2026-06-26,Pen Pack,Stationery,West,3,80
+492,2026-09-21,Phone,Electronics,North,3,30000
+493,2026-08-27,Headphones,Electronics,North,2,2500
+494,2026-05-07,Headphones,Electronics,South,4,2500
+495,2026-05-29,Laptop,Electronics,West,1,55000
+496,2026-08-03,Pen Pack,Stationery,South,5,80
+497,2026-06-17,Pen Pack,Stationery,East,2,80
+498,2026-09-13,Phone,Electronics,West,2,30000
+499,2026-09-12,Desk,Furniture,North,3,8000
+500,2026-09-16,Laptop,Electronics,West,4,55000
